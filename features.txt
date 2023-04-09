@@ -1,5 +1,9 @@
 Features for the cuddly study website:
 
-1. A way for users to create an account
-2. A way for users to login to an account
-3. A way for 
+1. Create account
+2. Login
+3. Redirect to university resources
+4. Add notes to a "to-do" list
+5. Create a timer
+6. Be able to change background
+7. Be able to change music

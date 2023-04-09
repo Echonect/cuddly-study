@@ -1,3 +1,20 @@
-background {
-    background-color: #262322;
+.screen-block {
+  height: 100vh;
+  background-color: #79addc;
+}
+
+.row-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.column-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: #FFFFFF;
 }
