@@ -1,0 +1,5 @@
+Features for the cuddly study website:
+
+1. A way for users to create an account
+2. A way for users to login to an account
+3. A way for 
